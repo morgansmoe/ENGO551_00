@@ -1,0 +1,14 @@
+@media (max-width: 600px) {
+  body {
+    background-color: Gainsboro;
+  }
+}
+@media (min-width: 601px) {
+  body {
+    background-color: GhostWhite;
+  }
+}
+
+body {
+  background-color: white;
+}
